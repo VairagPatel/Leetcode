@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VairagPatel/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/VairagPatel/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VairagPatel/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VairagPatel/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/VairagPatel/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VairagPatel/Leetcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -45,10 +47,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VairagPatel/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/VairagPatel/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VairagPatel/Leetcode/tree/master/0101-symmetric-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/VairagPatel/Leetcode/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VairagPatel/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
