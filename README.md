@@ -98,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/VairagPatel/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VairagPatel/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/VairagPatel/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
