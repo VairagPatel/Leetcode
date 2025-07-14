@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/VairagPatel/Leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/VairagPatel/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
