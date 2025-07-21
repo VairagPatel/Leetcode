@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/VairagPatel/Leetcode/tree/master/0009-palindrome-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VairagPatel/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/VairagPatel/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 <!---LeetCode Topics End-->
