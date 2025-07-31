@@ -5,10 +5,10 @@ class Solution {
         int carry = 0;
 
         while (l1 != null || l2 != null || carry != 0) {
-            int digit1 = (l1 != null) ? l1.val : 0;
-            int digit2 = (l2 != null) ? l2.val : 0;
+            int x = (l1 != null) ? l1.val : 0;
+            int y = (l2 != null) ? l2.val : 0;
 
-            int sum = digit1 + digit2 + carry;
+            int sum = x + y + carry;
             int digit = sum % 10;
             carry = sum / 10;
 
