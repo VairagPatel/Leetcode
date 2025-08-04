@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/VairagPatel/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/VairagPatel/Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VairagPatel/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/VairagPatel/Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/VairagPatel/Leetcode/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VairagPatel/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/VairagPatel/Leetcode/tree/master/0217-contains-duplicate) |
 | [2689-rearranging-fruits](https://github.com/VairagPatel/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
