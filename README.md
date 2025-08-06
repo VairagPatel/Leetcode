@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/VairagPatel/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/VairagPatel/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VairagPatel/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/VairagPatel/Leetcode/tree/master/0792-binary-search) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
