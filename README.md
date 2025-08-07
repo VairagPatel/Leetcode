@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/VairagPatel/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/VairagPatel/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/VairagPatel/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/VairagPatel/Leetcode/tree/master/0118-pascals-triangle) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Segment Tree
 |  |
 | ------- |
