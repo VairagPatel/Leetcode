@@ -127,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/VairagPatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VairagPatel/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/VairagPatel/Leetcode/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VairagPatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VairagPatel/Leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/VairagPatel/Leetcode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/VairagPatel/Leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VairagPatel/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
