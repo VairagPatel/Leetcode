@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VairagPatel/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/VairagPatel/Leetcode/tree/master/0217-contains-duplicate) |
+| [0679-24-game](https://github.com/VairagPatel/Leetcode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/VairagPatel/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/VairagPatel/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/VairagPatel/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/VairagPatel/Leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/VairagPatel/Leetcode/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/VairagPatel/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/VairagPatel/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/VairagPatel/Leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VairagPatel/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0826-soup-servings](https://github.com/VairagPatel/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/VairagPatel/Leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/VairagPatel/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
