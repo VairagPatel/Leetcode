@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/VairagPatel/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/VairagPatel/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/VairagPatel/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VairagPatel/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VairagPatel/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/VairagPatel/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0826-soup-servings](https://github.com/VairagPatel/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/VairagPatel/Leetcode/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VairagPatel/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/VairagPatel/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## String
 |  |
 | ------- |
