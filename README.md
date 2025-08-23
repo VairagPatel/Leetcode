@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2432-number-of-zero-filled-subarrays](https://github.com/VairagPatel/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/VairagPatel/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/VairagPatel/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VairagPatel/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VairagPatel/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Segment Tree
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/VairagPatel/Leetcode/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/VairagPatel/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/VairagPatel/Leetcode/tree/master/1827-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
