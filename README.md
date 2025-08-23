@@ -198,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VairagPatel/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/VairagPatel/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/VairagPatel/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/VairagPatel/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
