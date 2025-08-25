@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VairagPatel/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/VairagPatel/Leetcode/tree/master/0217-contains-duplicate) |
+| [0498-diagonal-traverse](https://github.com/VairagPatel/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/VairagPatel/Leetcode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/VairagPatel/Leetcode/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/VairagPatel/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VairagPatel/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/VairagPatel/Leetcode/tree/master/0498-diagonal-traverse) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VairagPatel/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/VairagPatel/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
