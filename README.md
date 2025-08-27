@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VairagPatel/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VairagPatel/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/VairagPatel/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0826-soup-servings](https://github.com/VairagPatel/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/VairagPatel/Leetcode/tree/master/0867-new-21-game) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VairagPatel/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/VairagPatel/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VairagPatel/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/VairagPatel/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VairagPatel/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Segment Tree
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/VairagPatel/Leetcode/tree/master/0498-diagonal-traverse) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VairagPatel/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
